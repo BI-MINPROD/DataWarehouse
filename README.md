@@ -1,2 +1,2 @@
-# DataWarehouse
+# Data Warehouse
  Data warehouse ministerial
